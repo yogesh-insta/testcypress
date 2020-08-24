@@ -1,0 +1,14 @@
+{
+  "name": "iframes",
+  "version": "1.0.0",
+  "description": "Interacting with iframes",
+  "scripts": {
+    "test:ci:chrome-xhr": "./node_modules/.bin/cypress run --browser chrome --spec 'cypress/integration/xhr-spec.js'",
+    "test:ci:chrome-headless-xhr": "./node_modules/.bin/cypress run --headless --browser chrome --spec 'cypress/integration/xhr-spec.js'"
+  },
+  "dependencies": {
+    "cypress": "^4.11.0",
+    "@cypress/skip-test": "2.5.0",
+    "cypress-iframe": "1.0.1"
+  }
+}

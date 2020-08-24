@@ -1,0 +1,6 @@
+{
+  "chromeWebSecurity": false,
+  "viewportHeight": 1000,
+  "fixturesFolder": false,
+  "pluginsFile": false
+}
