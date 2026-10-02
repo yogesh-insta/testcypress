@@ -1,5 +1,10 @@
 # testcypress
 
+**Stack:** JavaScript, Cypress
+
+**Skills:** End-to-end testing
+
+
 A small Cypress suite that exercises a local page, including an XHR check.
 
 ## Install
